@@ -1,0 +1,3 @@
+1. The "Pure component" among the two similar functioning components is performing better because, it does not support unnecessary rendering of a component which occurs when the props and states of a components does not update, which will help us to save more memory space and boost the performance of the website. 
+
+2. Whereas the simple component allows unnessary re-rendering of a component eventhougn the props and states of the components remains un-updated, which will cause the browser to perform slower.  
